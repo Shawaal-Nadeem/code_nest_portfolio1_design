@@ -1,0 +1,28 @@
+.smallbox1 {
+  background: linear-gradient(225.67deg, #5200ff 5.39%, #2c0089 97.87%);
+  box-shadow: 0px 9px 70px -10px #2c0089;
+  border-radius: 20px;
+}
+.button1 {
+  background: linear-gradient(94deg, #2c0089 2.71%, #5200ff 99.31%);
+  border-radius: 50px;
+}
+.bigbox1 {
+  background: #3f3f3f;
+  box-shadow: 0px 0px 50px 5px rgba(64, 0, 200, 0.5);
+  border-radius: 20px;
+}
+
+.smallbox2 {
+  background: linear-gradient(94deg, #a500f3 2.71%, #3b0057 99.31%);
+  border-radius: 20px;
+}
+.button2 {
+  background: linear-gradient(94deg, #a500f3 2.71%, #3b0057 99.31%);
+  border-radius: 50px;
+}
+.bigbox2 {
+  background: #3f3f3f;
+  box-shadow: 0px 0px 50px 5px rgba(155, 0, 228, 0.5);
+  border-radius: 20px;
+}

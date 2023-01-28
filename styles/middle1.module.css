@@ -1,0 +1,18 @@
+.box1 {
+  background: #e19eca;
+  box-shadow: 0px 50px 70px -30px #e19eca;
+}
+.box1shadow {
+  box-shadow: 0px 50px 70px -30px rgba(0, 0, 0, 0.4);
+}
+.box2 {
+  background: #a6ace6;
+  box-shadow: 0px 50px 70px -30px #a6ace6;
+}
+.box2shadow {
+  box-shadow: 0px 50px 70px -30px rgba(0, 0, 0, 0.4);
+}
+.box3 {
+  background: #1d5caa;
+  box-shadow: 0px 40px 70px -30px #1d5caa;
+}
