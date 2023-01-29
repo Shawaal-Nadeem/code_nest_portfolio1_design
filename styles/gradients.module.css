@@ -1,9 +1,14 @@
-.header {
-  background: rgb(2, 0, 36);
-  background: linear-gradient(
-    101deg,
-    rgba(2, 0, 36, 1) 0%,
-    rgba(115, 9, 147, 1) 100%,
-    rgba(0, 212, 255, 1) 100%
-  );
+.video {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	width: 100%;
+	object-fit:fill;
+	height: 90%;
+  }
+.navbar
+{
+    position: relative;
+    z-index: 1;
 }

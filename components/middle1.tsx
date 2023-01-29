@@ -19,7 +19,7 @@ const Middle = () => {
 
           <div className=" w-[100%] h-[208px] -mb-4 z-2 relative">
             <img
-              src="box1.jpeg"
+              src="/images/box1.jpeg"
               alt=""
               className={`rounded-t-3xl  ${style.box1shadow}`}
             />
@@ -45,7 +45,7 @@ const Middle = () => {
 
           <div className=" w-[100%] h-[208px] -mb-4 z-2 relative">
             <img
-              src="box2.jpeg"
+              src="/images/box2.jpeg"
               alt=""
               className={`rounded-t-3xl  ${style.box1shadow}`}
             />
@@ -72,7 +72,7 @@ const Middle = () => {
 
           <div className=" w-[100%] h-[208px] -mb-4 z-2 relative">
             <img
-              src="box3.jpeg"
+              src="/images/box3.jpeg"
               alt=""
               className={`rounded-t-3xl  ${style.box2shadow}`}
             />
